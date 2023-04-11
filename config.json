@@ -1,0 +1,8 @@
+{
+    "debug": true,
+    "PORT": 8000,
+    "DATABASE": "mongodb://localhost:27017/cbetworld_410",
+    "secret": "7fd4e3djfdmsj234a8b1na03n2+2n37dnt5mbnsko",
+    "JWT_SECRET": "4006e390c275337871b0da6ae9f628f20a853dc0",
+    "CHAINID": 421613
+}
